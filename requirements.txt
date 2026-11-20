@@ -1,0 +1,5 @@
+PySide6>=6.7          # GUI + 내장 웹브라우저(QtWebEngine)
+requests>=2.31        # 멜론 페이지 요청
+beautifulsoup4>=4.12  # HTML 파싱
+yt-dlp>=2025.1.1      # 유튜브 '검색'에만 사용 (다운로드 안 함). 자주 업데이트하세요: pip install -U yt-dlp
+pytest>=8.0           # 테스트
